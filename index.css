@@ -1,0 +1,30 @@
+body{
+   background: #ddd;
+}
+
+.navbar-brand{
+   background: #F7DF1E;
+   border-radius: 10px;
+}
+.nav-link{
+   font-size: 1.1em;
+}
+.nav-link:hover{
+   background: #3481EF;
+   border-radius: 8px;
+   color: #fff;
+   transition: all .5s ease-in-out;
+}
+#second-link{
+   width: 100%;
+   justify-content: flex-end;
+   margin-right: 30px;
+}
+#submit-btn{
+   border: 1px solid #000;
+   text-align: center;
+   margin-right: 20px;
+   border-radius: 5px;
+   padding:5px 8px;
+   font-size: 1em;
+}# landing-page.github.io
